@@ -1,12 +1,12 @@
-# Nohboard JP109
+# NohBoard JP109
 
-[Nohboard](https://github.com/ThoNohT/NohBoard)の日本語キーボード（JP109/JIS配列）向けキーボードレイアウト・スタイルです。
+[NohBoard](https://github.com/ThoNohT/NohBoard)の日本語キーボード（JP109/JIS配列）向けキーボードレイアウト・スタイルです。
 
 ## 一覧
 
 ### `GamesLegacyJP109/game_fps1`
 
-Nohboard v1.3.0の`GamesLegacy/game_fps1`をJIS配列に対応させたものです。
+NohBoard v1.3.0の`GamesLegacy/game_fps1`をJIS配列に対応させたものです。
 
 #### 変更点
 
@@ -14,7 +14,7 @@ Nohboard v1.3.0の`GamesLegacy/game_fps1`をJIS配列に対応させたもので
 
 ### `GamesLegacyJP109/game_fps1_mm`
 
-Nohboard v1.3.0の`GamesLegacy/game_fps1_mm`をJIS配列に対応させたものです。
+NohBoard v1.3.0の`GamesLegacy/game_fps1_mm`をJIS配列に対応させたものです。
 
 #### 変更点
 
