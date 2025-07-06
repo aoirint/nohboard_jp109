@@ -1,6 +1,6 @@
 # Nohboard JP109
 
-Nohboardの日本語キーボード（JP109/JIS配列）向けキーボードレイアウト・スタイルです。
+[Nohboard](https://github.com/ThoNohT/NohBoard)の日本語キーボード（JP109/JIS配列）向けキーボードレイアウト・スタイルです。
 
 ## 一覧
 
