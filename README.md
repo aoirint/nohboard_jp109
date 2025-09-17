@@ -20,6 +20,19 @@ NohBoard v1.3.0の`GamesLegacy/game_fps1_mm`をJIS配列に対応させたもの
 
 - 「2」キーのSHIFT押下時の印字を`@`から`"`に変更
 
+
+### `GamesLegacyJP109/game_lc1`
+
+Lethal Company向けのキーボードレイアウトです。
+
+`GamesLegacyJP109/game_fps1`に`T`、`G`、`B`キーを追加しています。
+
+### `GamesLegacyJP109/game_lc1_mm`
+
+`GamesLegacyJP109/game_lc1`にマウス移動量表示を追加したキーボードレイアウトです。
+
+`GamesLegacyJP109/game_fps1_mm`に`T`、`G`、`B`キーを追加しています。
+
 ### `global/bg_green.style`
 
 グリーンバックのキーボードスタイルです。
