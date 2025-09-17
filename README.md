@@ -25,13 +25,13 @@ NohBoard v1.3.0の`GamesLegacy/game_fps1_mm`をJIS配列に対応させたもの
 
 Lethal Company向けのキーボードレイアウトです。
 
-`game_fps1`に`T`、`G`、`B`キーを追加しています。
+`GamesLegacyJP109/game_fps1`に`T`、`G`、`B`キーを追加しています。
 
 ### `GamesLegacyJP109/game_lc1_mm`
 
-Lethal Company向けのキーボードにマウス移動量表示を追加したレイアウトです。
+`GamesLegacyJP109/game_lc1`にマウス移動量表示を追加したキーボードレイアウトです。
 
-`game_fps1_mm`に`T`、`G`、`B`キーを追加しています。
+`GamesLegacyJP109/game_fps1_mm`に`T`、`G`、`B`キーを追加しています。
 
 ### `global/bg_green.style`
 
